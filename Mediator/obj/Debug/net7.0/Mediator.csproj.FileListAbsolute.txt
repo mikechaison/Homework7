@@ -1,0 +1,14 @@
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\bin\Debug\net7.0\Mediator.exe
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\bin\Debug\net7.0\Mediator.deps.json
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\bin\Debug\net7.0\Mediator.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\bin\Debug\net7.0\Mediator.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Mediator\obj\Debug\net7.0\ref\Mediator.dll

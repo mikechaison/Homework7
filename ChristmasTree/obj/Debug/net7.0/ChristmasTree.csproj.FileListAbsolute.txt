@@ -1,0 +1,14 @@
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\bin\Debug\net7.0\ChristmasTree.exe
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\bin\Debug\net7.0\ChristmasTree.deps.json
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\bin\Debug\net7.0\ChristmasTree.runtimeconfig.json
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\bin\Debug\net7.0\ChristmasTree.dll
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\bin\Debug\net7.0\ChristmasTree.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.AssemblyInfoInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.AssemblyInfo.cs
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.csproj.CoreCompileInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.dll
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\refint\ChristmasTree.dll
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ChristmasTree.genruntimeconfig.cache
+d:\Бурсітєт\2_course\ООП\Homework7\ChristmasTree\obj\Debug\net7.0\ref\ChristmasTree.dll

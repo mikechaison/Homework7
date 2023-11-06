@@ -1,0 +1,14 @@
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\bin\Debug\net7.0\Margarita.exe
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\bin\Debug\net7.0\Margarita.deps.json
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\bin\Debug\net7.0\Margarita.runtimeconfig.json
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\bin\Debug\net7.0\Margarita.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\bin\Debug\net7.0\Margarita.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.GeneratedMSBuildEditorConfig.editorconfig
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.AssemblyInfoInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.AssemblyInfo.cs
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.csproj.CoreCompileInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\refint\Margarita.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\Margarita.genruntimeconfig.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Margarita\obj\Debug\net7.0\ref\Margarita.dll

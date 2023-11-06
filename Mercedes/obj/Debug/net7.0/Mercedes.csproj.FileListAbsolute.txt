@@ -1,0 +1,14 @@
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\bin\Debug\net7.0\Mercedes.exe
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\bin\Debug\net7.0\Mercedes.deps.json
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\bin\Debug\net7.0\Mercedes.runtimeconfig.json
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\bin\Debug\net7.0\Mercedes.dll
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\bin\Debug\net7.0\Mercedes.pdb
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.AssemblyInfoInputs.cache
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.AssemblyInfo.cs
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.csproj.CoreCompileInputs.cache
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.dll
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\refint\Mercedes.dll
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.pdb
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\Mercedes.genruntimeconfig.cache
+D:\Бурсітєт\2_course\ООП\Homework7\Mercedes\obj\Debug\net7.0\ref\Mercedes.dll

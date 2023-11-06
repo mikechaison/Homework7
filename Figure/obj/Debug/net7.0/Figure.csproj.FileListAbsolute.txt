@@ -1,0 +1,14 @@
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\bin\Debug\net7.0\Figure.exe
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\bin\Debug\net7.0\Figure.deps.json
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\bin\Debug\net7.0\Figure.runtimeconfig.json
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\bin\Debug\net7.0\Figure.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\bin\Debug\net7.0\Figure.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.AssemblyInfoInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.AssemblyInfo.cs
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.csproj.CoreCompileInputs.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\refint\Figure.dll
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.pdb
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\Figure.genruntimeconfig.cache
+d:\Бурсітєт\2_course\ООП\Homework7\Figure\obj\Debug\net7.0\ref\Figure.dll
